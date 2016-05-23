@@ -44,3 +44,6 @@ div.Paragraph {
 body {
 	background-color: #110B3B;
 }
+div.Shrek {
+	border: 10px solid red;
+}
