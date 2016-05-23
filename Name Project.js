@@ -21,6 +21,8 @@ switch ( name ) {
 	case "debra":
 		alert("You are a child abuser");
 		break;
+	case "shrek":
+		alert("No it is not")
 	default:
 		alert("Your name is " + capitalizeFirstLetter(name));
 }
