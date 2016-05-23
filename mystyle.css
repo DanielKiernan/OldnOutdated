@@ -26,6 +26,8 @@ div.Paragraph {
 	}
 	
 	div.Box {
+		width: 150px;
+		height: 100px;
 		color: green;
 		background-color: yellow;
 		animation-name: Box;
