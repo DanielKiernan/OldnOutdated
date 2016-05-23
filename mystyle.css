@@ -33,6 +33,7 @@ div.Paragraph {
 		padding: 50px;
 		margin: 400px;
 		color: green;
+		background-color: #993399;
 		border: 5px solid black;
 		text-align: center;
 		animation-name: Box;
