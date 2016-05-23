@@ -10,8 +10,6 @@ div.Title {
 	font-style: oblique;
 }
 div.Paragraph {
-  	width: 100%;
-	margin: 200px;
 	text-align: center;
 	background-color: #3DECFF;
 	color: #FF3DF2;
