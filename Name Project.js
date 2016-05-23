@@ -3,7 +3,6 @@ function capitalizeFirstLetter(string) {
 }
 function lame() {
 	
-	alert("It works");
 	var name = (prompt("What is your name?")).toLowerCase();
 	
 	switch ( name ) {
