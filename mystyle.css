@@ -22,10 +22,10 @@ div.Paragraph {
 	
 	@keyframes Box {
 		0% {background-color:red; border: 5px solid yellow; left:0px; top:0px;}
-    		25% {background-color:yellow; border: 5px solid blue; left:0px; top:100px;}
-		50% {background-color:blue; border: 5px solid green; left:200px; top:100px;}
-    		75% {background-color:green; border: 5px solid red; left:100px; top:100px;}
-    		100% {background-color:red; border: 5px solid black; left:100px; top:150px;}
+    		25% {background-color:yellow; border: 5px solid blue; left:200px; top:200px;}
+		50% {background-color:blue; border: 5px solid green; left:200px; top:200px;}
+    		75% {background-color:green; border: 5px solid red; left:0px; top:200px;}
+    		100% {background-color:red; border: 5px solid black; left:0px; top:0px;}
 	}
 	
 	div.Box {
@@ -38,3 +38,4 @@ div.Paragraph {
 		animation-name: Box;
 		animation-duration: 5s;
 	}
+	/*comment*/
