@@ -14,10 +14,10 @@ div.Paragraph {
 	margin: 200px;
 	text-align: center;
 	background-color: #3DECFF;
-	color: yellow;
+	color: #FF3DF2;
 	height: 200px;
 	width: 500px;
-	border: 5px solid red;
+	border: 5px solid #FF3DF2;
 	}
 	
 	@keyframes Box {
