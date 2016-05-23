@@ -26,10 +26,14 @@ div.Paragraph {
 	}
 	
 	div.Box {
-		width: 150px;
-		height: 100px;
+		width: 450px;
+		height: 200px;
+		padding: 50px;
+		margin: 400px;
 		color: green;
+		text-align: center
 		background-color: yellow;
 		animation-name: Box;
 		animation-duration: 5s;
+		animation-iteration-count: 4;
 	}
