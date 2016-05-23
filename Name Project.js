@@ -4,7 +4,7 @@ function capitalizeFirstLetter(string) {
 }
 switch ( name ) {
 	case "dylan":
-		alert("You don't have handles kid");
+		alert("ur gay");
 		break;
 	case "daniel":
 		alert("You are awesome");
