@@ -40,3 +40,7 @@ div.Paragraph {
 		animation-duration: 2s;
 		animation-iteration-count: 3;
 	}
+	body {
+		background-color: #110B3B;
+	}
+	}
