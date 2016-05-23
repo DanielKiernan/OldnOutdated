@@ -10,9 +10,6 @@ div.Title {
 	font-style: oblique;
 }
 div.Paragraph {
-	position: fixed;
-	top: 300px;
-	left: 200px;
   	width: 100%;
 	margin: 200px;
 	text-align: center;
