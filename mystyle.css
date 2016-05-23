@@ -30,9 +30,10 @@ div.Paragraph {
 	
 	div.Box {
 		position: relative;
+		width: 250px;
 		padding: 50px;
-		margin: 400px;
-		color: green;
+		margin: 350px;
+		color: black;
 		background-color: 993399;
 		border: 5px solid black;
 		text-align: center;
