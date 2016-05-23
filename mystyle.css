@@ -46,4 +46,5 @@ body {
 }
 div.Shrek {
 	border: 10px solid red;
+	display: inline-block;
 }
