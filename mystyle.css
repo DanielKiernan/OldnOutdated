@@ -22,7 +22,7 @@ div.Paragraph {
 	
 	@keyframes Box {
 		from {background-color: yellow;}
-		to {background-color: red;}
+		to {background-color: red; right: 5px;}
 	}
 	
 	div.Box {
