@@ -1,23 +1,19 @@
----
-layout: default
----
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="mystyle.css">
+		<title>WebPage</title>
+		<style>
+		p {
+		text-align: center;
+    color: red;
+	} h1 {
+	text-align: center;
+	}
+	</style>
+	</head>
+	<body>
+		<h1>Hello!</h1>
+		<p id = "paragraph">How are you doing today?</p>
+		<script src = "Name Project.js"></script>
+	</body>
+</html>
