@@ -21,8 +21,8 @@ div.Paragraph {
 	}
 	
 	@keyframes Box {
-		from {background-color: yellow; left:; 0px;}
-		to {background-color: red; right: 5px;}
+		from {background-color: yellow; right: 0px;}
+		to {background-color: red; right: 50px;}
 	}
 	
 	div.Box {
