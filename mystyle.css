@@ -35,6 +35,6 @@ div.Paragraph {
 		color: green;
 		text-align: center;
 		animation-name: Box;
-		animation-duration: 1s;
+		animation-duration: 2s;
 		animation-iteration-count: 3;
 	}
