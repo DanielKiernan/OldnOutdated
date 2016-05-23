@@ -1,8 +1,9 @@
 function capitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
-function name() {
+function lame() {
 	
+	alert("It works");
 	var name = (prompt("What is your name?")).toLowerCase();
 	
 	switch ( name ) {
