@@ -10,7 +10,7 @@ switch ( name ) {
 		alert("You are awesome");
 		break;
 	case "brianna":
-		alert("You are a sociopath");
+		alert("You are a wonderful dancer!");
 		break;
 	case "brooklynn":
 		alert("You are a baby");
@@ -22,7 +22,7 @@ switch ( name ) {
 		alert("You are a child abuser");
 		break;
 	case "shrek":
-		alert("No it is not")
+		alert("No it is not");
 	default:
 		alert("Your name is " + capitalizeFirstLetter(name));
 }
