@@ -15,7 +15,10 @@ function lame() {
 			break;
 			
 		case "brianna":
-			alert("You are a wonderful dancer!");
+			alert("You are a sociopath");
+			var pic;
+			pic = "http://i1131.photobucket.com/albums/m545/the_chief_69/Instagram%20Myers%20pics/1.jpg"
+			document.getElementById('path').src = pic;
 			break;
 			
 		case "brooklynn":
