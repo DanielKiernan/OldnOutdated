@@ -51,5 +51,6 @@ div.Shrek {
 div.Socio {
 	position: relative;
 	left: 300px;
+	bottom: 400px;
 	display: inline;
 }
