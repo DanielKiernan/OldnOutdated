@@ -49,5 +49,6 @@ div.Shrek {
 	display: inline-block;
 }
 div.Socio {
+	position: relative;
 	display: inline;
 }
